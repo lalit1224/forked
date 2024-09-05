@@ -8,7 +8,7 @@ install:
   - set CI=true
   - set PATH=%APPDATA%\npm;%PATH%
   - npm install
-matrix:
+matrix:ljguvhbkbkjbi
   fast_finish: true
 build: off
 version: '{build}'
